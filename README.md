@@ -1,2 +1,2 @@
 # Leetcode
-answer of questions in leetcode
+answers of questions in leetcode
